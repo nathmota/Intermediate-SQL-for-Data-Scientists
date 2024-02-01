@@ -1,5 +1,5 @@
 /*Write a select query to return:
-	last name
+last name
 	email
 	department name
 For employees with salaries greater than $120,000.*/
